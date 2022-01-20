@@ -6,3 +6,5 @@ be needing 3 of those files, times1.txt(records the spike time of each neuron),s
 neuron fired at that instant).
 These three files will be used to calculate the cluster index using the final.py code . The code plots cluster index vs plots for evry synapse removed. It also plots
 the final cluster index value vs number of synapse removed.
+The collab code can be found in the link given.
+https://colab.research.google.com/drive/1D1Mjb1svZykyrFGeCsTQekVlfMTsrqko?usp=sharing
